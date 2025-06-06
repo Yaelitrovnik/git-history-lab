@@ -1,2 +1,23 @@
 Version 1
 Hello, Git User!
+
+## Git Commands Learned
+git init
+git add
+git commot
+git status
+git log
+git commit
+EDF
+
+
+
+
+
+- EDF
+Q
+q
+
+
+
+
